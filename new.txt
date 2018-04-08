@@ -1,0 +1,1 @@
+http://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jre-8u161-linux-x64.rpm?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u161-b12/2f38c3b165be4555a1fa6e98c45e0808/jre-8u161-linux-x64.rpm&BHost=javadl.sun.com&File=jre-8u161-linux-x64.rpm&AuthParam=1523160862_e775dac0296e416774ed8b61199aebd0&ext=.rpm
